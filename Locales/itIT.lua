@@ -1,18 +1,18 @@
 local L = BigWigsAPI:NewLocale("BigWigs", "itIT")
 if not L then return end
 
---L.getNewRelease = "Your BigWigs is old (/bwv) but you can easily update it using the Curse Client. Alternatively, you can update manually from curse.com or wowinterface.com."
---L.warnTwoReleases = "Your BigWigs is 2 releases out of date! Your version may have bugs, missing features, or completely incorrect timers. It is strongly recommended you update."
---L.warnSeveralReleases = "|cffff0000Your BigWigs is %d releases out of date!! We HIGHLY recommend you update to prevent syncing issues with other players!|r"
+--L.getNewRelease = "La tua versione di BigWigs è obsoleta (/bwv) puoi aggiornarla utilizzando il client Curse. Altrimenti la puoi aggiornare manualmente da curse.com o wowinterface.com."
+--L.warnTwoReleases = "La tua versione di BigWigs è di obsoleta di due versioni! La tua versione potrebbe avere bug, funzionalità mancanti, o timer totalmente sbagliati. Ti raccomandiamo di aggiornarla al più presto."
+--L.warnSeveralReleases = "|cffff0000La tua versione di BigWigs e è obsoleta di %d versioni! Ti raccomandiamo di aggiornarla al più presto in modo da non avere problemi di sfasamento con gli altri giocatori!|r"
 
---L.gitHubDesc = "BigWigs is open source software hosted on GitHub. We are always looking for new people to help us out and everyone is welcome to inspect our code, make contributions and submit bug reports. BigWigs is as great as it is today largely in part to the great WoW community helping us out.\n\n|cFF33FF99Our API is now documented and freely readable on the GitHub wiki.|r"
+--L.gitHubDesc = "BigWigs è un software open-source caricato su GitHub. We are always looking for new people to help us out and everyone is welcome to inspect our code, make contributions and submit bug reports. BigWigs is as great as it is today largely in part to the great WoW community helping us out.\n\n|cFF33FF99Our API is now documented and freely readable on the GitHub wiki.|r"
 
---L.options = "Options"
---L.raidBosses = "Raid Bosses"
---L.dungeonBosses = "Dungeon Bosses"
+--L.options = "Opzioni"
+--L.raidBosses = "Boss dei Raid"
+--L.dungeonBosses = "Boss dei dungeon"
 
---L.infobox = "Information Box"
---L.infobox_desc = "Display a box with information related to the encounter."
+--L.infobox = "Finestra di informazioni"
+--L.infobox_desc = "Visualizza una finestra con le informazioni sugli scontri."
 --L.INFOBOX = L.infobox
 --L.INFOBOX_desc = L.infobox_desc
 
